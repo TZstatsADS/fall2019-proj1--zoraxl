@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Analysis on EDM Lyrics
 + This project is conducted by Xiaotong Li
 
-+ Project summary: [a short summary] This project is to carry out firstly an exploratory data analysis of the corpus of song lyrics and write a blog on interesting findings from the provide datasets.
++ Project summary: [a short summary] This project will look into EDM music type and discuss what are the potential if we want to build a lyrics generator on the EDM music. Check /doc/Lyrics Generator for EDM-Preliminary Analysis for more details. Thank you!
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
